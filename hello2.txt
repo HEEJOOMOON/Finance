@@ -1,1 +1,6 @@
 second version
+
+get_dollar_bars():
+    aadflka;dfkl
+    alksdfjalksdfal
+    aldsjfkalsdf;l

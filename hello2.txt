@@ -4,3 +4,8 @@ get_dollar_bars():
     aadflka;dfkl
     alksdfjalksdfal
     aldsjfkalsdf;l
+
+
+get_im_bar():
+    ghiahgdkahl
+    hajldkfhal;jkdfhl
